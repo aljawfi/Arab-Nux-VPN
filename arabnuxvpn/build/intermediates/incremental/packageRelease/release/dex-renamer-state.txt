@@ -1,0 +1,4 @@
+#Fri Mar 23 00:07:34 EET 2018
+base.0=C\:\\MyProjects\\1\\arabnuxvpn\\arabnuxvpn\\arabnuxvpn\\build\\intermediates\\transforms\\dex\\release\\0
+path.0=classes.dex
+renamed.0=classes.dex

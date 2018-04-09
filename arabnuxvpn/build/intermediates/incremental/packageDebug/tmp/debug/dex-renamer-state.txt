@@ -1,0 +1,4 @@
+#Sun Apr 08 12:43:26 PDT 2018
+base.0=C\:\\ForGitHub\\arabnuxvpn\\arabnuxvpn\\build\\intermediates\\transforms\\dexMerger\\debug\\0
+path.0=classes.dex
+renamed.0=classes.dex

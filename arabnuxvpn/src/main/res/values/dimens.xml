@@ -1,0 +1,16 @@
+<resources>
+    <dimen name="edit_text_padding">15dp</dimen>
+    <dimen name="edit_text_size">18sp</dimen>
+    <dimen name="margin_top_bottom_edit_text">4dp</dimen>
+    <dimen name="margin_right_checkbox">15dp</dimen>
+    <dimen name="about_up">15dp</dimen>
+    <dimen name="width_image_about_us">90dp</dimen>
+    <dimen name="height_image_about_us">70dp</dimen>
+    <dimen name="text_size_about_us">15sp</dimen>
+    <!-- Default screen margins, per the Android Design guidelines. -->
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+    <dimen name="nav_header_vertical_spacing">8dp</dimen>
+    <dimen name="nav_header_height">176dp</dimen>
+    <dimen name="fab_margin">16dp</dimen>
+</resources>

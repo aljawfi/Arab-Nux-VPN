@@ -1,0 +1,49 @@
+######################################################
+#############     Abdulkader Alrazj     #############
+######################################################
+client
+dev tun
+proto tcp-client
+remote 14.14.0.1 11952
+auth-user-pass
+connect-retry infinite
+resolv-retry infinite
+persist-tun
+persist-key
+tls-client
+redirect-gateway local def1
+fast-io
+pull
+verb 3
+<ca>
+-----BEGIN CERTIFICATE-----
+MIIFFjCCAv6gAwIBAgIIKOywmR6Ezz0wDQYJKoZIhvcNAQELBQAwFjEUMBIGA1UE
+AwwLQXJhYk51eC5jb20wHhcNMTgwMjAxMjEzNDM1WhcNMjgwMTMwMjEzNDM1WjAW
+MRQwEgYDVQQDDAtBcmFiTnV4LmNvbTCCAiIwDQYJKoZIhvcNAQEBBQADggIPADCC
+AgoCggIBAPXkMVa06pZul4HPbghHpYFnNp/ePRvdTGpnEYi2BGr0ETGwwizCwfL1
+kS1zP9kDL/xclM3GHwL0x5nWv9dKujTdR3jxX0kau4G3QvMf5BYtknQo6f3O0xcs
+kg2QBaSdBx1m//lSZMrGQBtCq6C1y2k2DT+J0smImuuZRhujfekST/j5HFN79srB
+qjYL9rLuDoju+qeaGIOBc7lnE3jpSAPveb2avseq8augiOnUXRIFGkhOmNdKNVT7
+OJpB0i/ZhQi8ebAp4JPBVyqAvua1HY/zXmxTOhPT4VNj/RTlFnrbXEsPTg7k20VY
+cDR1WuyZDUjt/zDFW53q+mHZ7dqER6KHqdxRK30eKl0zVvrsd7h6UYNAJPwXZDSa
+s2RqV4Hf8zE9OGZtZ5A9d9+CdO80a/JGi1w0K/nxI2ikLoHFNESiD6aqaI1G1nH8
+QY9lKxQ39rxDhhKVCiShhIFsZ/9M1wDYU1qlDmUj+DvWyXMHPg9m2TGBxmwY2JV8
+H3Zfk8D0vYYRPe53aMls7ttGUbFr+hFQlrUmpNmFg2cKDkCADC6XZWX1+vi+Kbwg
+qkd/vjw66/e0QjS0ZnHymtTkXdbvAxdpJmQXwQII/WpN64CmF3ECBdgV1U8LtoRL
+PGqGpnhou/8HwAMB+7xV7UL0TDtqzaMynl20RYSx8zFaZj1acqJDAgMBAAGjaDBm
+MA8GA1UdEwEB/wQFMAMBAf8wDgYDVR0PAQH/BAQDAgEGMB0GA1UdDgQWBBRkMVmT
+13qe/WpG0afsE8xM+hf2kjAkBglghkgBhvhCAQ0EFxYVR2VuZXJhdGVkIGJ5IFJv
+dXRlck9TMA0GCSqGSIb3DQEBCwUAA4ICAQC3QDiAEPBqqxigw72iQzsY0R9/G9hO
+LEnZ2EERt8vndSiwK2h7d6wbvrF4zNE6xRanoEkwMwvncUf73N3CSrKMyjRwk3hF
+jBxfNhmeaoasHGILdkc80aYDk7YlsR1TJBPJns5bRwyd09ZLv6kBrGD+1DO5t9ys
+SO1yXL4+T75f3scLG8j6N4/wiuyKnjRgyMR2RiToKujB03yKER3LoSdBq5WlTBeF
+rpQ+6TatOf9cFDFo0NLHPbDvoIEwhOH1bQdyd6TUc7u7OkAb5CT6wNjclpHk3L3Z
+d96GFpsibo6IvZB374PxgsFjOBUUyTtpHzS9cRJZUM6QWKWuudMog/Yg0RKMDHzH
+4dYrCdjf0box0HPzO3qJosk0At2Q0VD/bWuZKZJT93PeJYzwgqV/6c9omHi2xwwe
+SqwHoseUyvDpnRXX+zIrmzoW3sRPA/MuXftkYzaPWpx96oJwZRqLJxI+BEHMcMdT
+L/nXd9Ut8D0r1/NaEAVY842PtqvEDdhxglaYxyCAQpRZ+UgBV2ZBPRqS5f6rYKJ7
+BEb243Alx8BsDOHI56VMyav3if4IILlBBW8L1ZEOinUa3UelL8qAD6Arjpp0P9HC
+Wdtym6qscq7qod1t1bttlEBGh9Xgig0xaXyzClbkf6jDdzjp58bY34Jge7iOpxs0
+ExIGRSfbYe3c9Q==
+-----END CERTIFICATE-----
+</ca>

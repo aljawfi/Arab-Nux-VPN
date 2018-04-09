@@ -1,0 +1,48 @@
+{
+    "logs": [
+        {
+            "outputFile": "C:\\MyProjects\\StarNet\\arabnuxvpn\\arabnuxvpn\\arabnuxvpn\\build\\intermediates\\incremental\\mergeReleaseResources\\merged.dir\\values-xhdpi-v4\\values-xhdpi-v4.xml",
+            "map": [
+                {
+                    "source": "C:\\MyProjects\\StarNet\\arabnuxvpn\\arabnuxvpn\\arabnuxvpn\\src\\main\\res\\values-xhdpi\\dimens.xml",
+                    "from": {
+                        "startLines": "5,1,2,7,4,3,8,6",
+                        "startColumns": "1,1,1,1,1,1,1,1",
+                        "startOffsets": "212,14,61,300,161,105,351,250",
+                        "endColumns": "36,45,42,49,49,54,46,48",
+                        "endOffsets": "247,58,102,348,209,158,396,297"
+                    },
+                    "to": {
+                        "startLines": "2,3,4,5,6,7,8,9",
+                        "startColumns": "4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,95,144,190,243,296,354,404",
+                        "endColumns": "39,48,45,52,52,57,49,51",
+                        "endOffsets": "90,139,185,238,291,349,399,451"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "C:\\MyProjects\\1\\arabnuxvpn\\arabnuxvpn\\arabnuxvpn\\build\\intermediates\\incremental\\mergeReleaseResources\\merged.dir\\values-xhdpi-v4\\values-xhdpi-v4.xml",
+            "map": [
+                {
+                    "source": "C:\\MyProjects\\1\\arabnuxvpn\\arabnuxvpn\\arabnuxvpn\\src\\main\\res\\values-xhdpi\\dimens.xml",
+                    "from": {
+                        "startLines": "5,1,2,7,4,3,8,6",
+                        "startColumns": "1,1,1,1,1,1,1,1",
+                        "startOffsets": "212,14,61,300,161,105,351,250",
+                        "endColumns": "36,45,42,49,49,54,46,48",
+                        "endOffsets": "247,58,102,348,209,158,396,297"
+                    },
+                    "to": {
+                        "startLines": "2,3,4,5,6,7,8,9",
+                        "startColumns": "4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,95,144,190,243,296,354,404",
+                        "endColumns": "39,48,45,52,52,57,49,51",
+                        "endOffsets": "90,139,185,238,291,349,399,451"
+                    }
+                }
+            ]
+        }
+    ]
+}

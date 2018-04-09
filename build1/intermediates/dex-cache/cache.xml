@@ -1,0 +1,145 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Users\Abdulkader Alrazj\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.0.2.aar\d32a8a0900a6716910ce602fcbe96056\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="16"
+        optimize="true"
+        revision="27.0.3"
+        sha1="44ee06abb66da30f5855e6bf54574e64cdcd982a">
+        <dex dex="C:\MyProjects\1\arabnuxvpn\arabnuxvpn\arabnuxvpn\build\intermediates\transforms\preDex\release\5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Abdulkader Alrazj\.gradle\caches\transforms-1\files-1.1\support-compat-26.0.0-alpha1.aar\a44c61d56927e2bdc2f9e390a6765a74\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="16"
+        optimize="true"
+        revision="27.0.3"
+        sha1="8df0e365e40beb151bc42dee20817721a6cab7b0">
+        <dex dex="C:\MyProjects\1\arabnuxvpn\arabnuxvpn\arabnuxvpn\build\intermediates\transforms\preDex\release\21.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Abdulkader Alrazj\.gradle\caches\transforms-1\files-1.1\support-media-compat-26.0.0-alpha1.aar\11c23d43b1cd20ea3482f2df0b46fa6f\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="16"
+        optimize="true"
+        revision="27.0.3"
+        sha1="9935891f23923f39d002087085d9696568a9f657">
+        <dex dex="C:\MyProjects\1\arabnuxvpn\arabnuxvpn\arabnuxvpn\build\intermediates\transforms\preDex\release\19.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Sdk\extras\m2repository\com\android\support\constraint\constraint-layout-solver\1.0.2\constraint-layout-solver-1.0.2.jar"
+        jumboMode="false"
+        min-sdk-version="16"
+        optimize="true"
+        revision="27.0.3"
+        sha1="b9cd8fc6bd15cb915735d34535db30ece0c44603">
+        <dex dex="C:\MyProjects\1\arabnuxvpn\arabnuxvpn\arabnuxvpn\build\intermediates\transforms\preDex\release\23.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Abdulkader Alrazj\.gradle\caches\transforms-1\files-1.1\appcompat-v7-26.0.0-alpha1.aar\0b0e68eeb4195e06a80c6ac7d997cde0\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="16"
+        optimize="true"
+        revision="27.0.3"
+        sha1="47471eb19df288158b00b8d9cfa41bce7373f5cc">
+        <dex dex="C:\MyProjects\1\arabnuxvpn\arabnuxvpn\arabnuxvpn\build\intermediates\transforms\preDex\release\4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Abdulkader Alrazj\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-26.0.0-alpha1.aar\58766fe9887880f75658bb86575ac5a4\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="16"
+        optimize="true"
+        revision="27.0.3"
+        sha1="88246166d5afb106f532f6e6deae683c66b42c89">
+        <dex dex="C:\MyProjects\1\arabnuxvpn\arabnuxvpn\arabnuxvpn\build\intermediates\transforms\preDex\release\17.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Abdulkader Alrazj\.gradle\caches\transforms-1\files-1.1\transition-26.0.0-alpha1.aar\a1ab16032feab7bec5c1277e9004db36\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="16"
+        optimize="true"
+        revision="27.0.3"
+        sha1="cddcd0fb93bc70e27325f2f715b2710332004ebb">
+        <dex dex="C:\MyProjects\1\arabnuxvpn\arabnuxvpn\arabnuxvpn\build\intermediates\transforms\preDex\release\10.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Abdulkader Alrazj\.gradle\caches\transforms-1\files-1.1\support-core-ui-26.0.0-alpha1.aar\b59e5ec824cf4097aaadfb45357a7585\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="16"
+        optimize="true"
+        revision="27.0.3"
+        sha1="fcd01fd11233459f546c437ec927e9b61bf7caf1">
+        <dex dex="C:\MyProjects\1\arabnuxvpn\arabnuxvpn\arabnuxvpn\build\intermediates\transforms\preDex\release\16.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Abdulkader Alrazj\.gradle\caches\transforms-1\files-1.1\design-26.0.0-alpha1.aar\629efb1c7dd523eb0590445860b335ab\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="16"
+        optimize="true"
+        revision="27.0.3"
+        sha1="6a022bf00ccd0948a8180c505e8e458bbddd43a6">
+        <dex dex="C:\MyProjects\1\arabnuxvpn\arabnuxvpn\arabnuxvpn\build\intermediates\transforms\preDex\release\3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Abdulkader Alrazj\.gradle\caches\transforms-1\files-1.1\support-v4-26.0.0-alpha1.aar\8aba347a3f13d7aa7a37cd7ed53ebc54\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="16"
+        optimize="true"
+        revision="27.0.3"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="C:\MyProjects\1\arabnuxvpn\arabnuxvpn\arabnuxvpn\build\intermediates\transforms\preDex\release\14.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Abdulkader Alrazj\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-26.0.0-alpha1.aar\e9c6b2ff30b3eeb0fb507516f43efd44\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="16"
+        optimize="true"
+        revision="27.0.3"
+        sha1="c4f45092eee6cdf1a5dbd597b2b6819be652ce2e">
+        <dex dex="C:\MyProjects\1\arabnuxvpn\arabnuxvpn\arabnuxvpn\build\intermediates\transforms\preDex\release\9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Abdulkader Alrazj\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-26.0.0-alpha1.aar\e03b85d74a44abd9b94e71a1d4f31a13\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="16"
+        optimize="true"
+        revision="27.0.3"
+        sha1="952944218ecedea1554a513dec0c14d570642843">
+        <dex dex="C:\MyProjects\1\arabnuxvpn\arabnuxvpn\arabnuxvpn\build\intermediates\transforms\preDex\release\18.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Abdulkader Alrazj\.gradle\caches\transforms-1\files-1.1\support-core-utils-26.0.0-alpha1.aar\380eb73b9c78b4cb33154a1acf0f5577\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="16"
+        optimize="true"
+        revision="27.0.3"
+        sha1="2e92aa0163544a804a0b34f169ca61801770839a">
+        <dex dex="C:\MyProjects\1\arabnuxvpn\arabnuxvpn\arabnuxvpn\build\intermediates\transforms\preDex\release\20.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Abdulkader Alrazj\.gradle\caches\transforms-1\files-1.1\support-fragment-26.0.0-alpha1.aar\3c2e12b37bb7a2a9a8d57b67196c9c90\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="16"
+        optimize="true"
+        revision="27.0.3"
+        sha1="18d31838aa4fcc768a8a0516e22cc13b94655d89">
+        <dex dex="C:\MyProjects\1\arabnuxvpn\arabnuxvpn\arabnuxvpn\build\intermediates\transforms\preDex\release\15.jar" />
+    </item>
+
+</items>

@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view">
+
+    <item android:title="@string/blance">
+        <menu>
+            <item
+                android:id="@+id/blance_bma"
+                android:icon="@drawable/ic_if_check_book_309019"
+                android:title="@string/blance_bma" />
+            <item
+                android:id="@+id/blance_user"
+                android:icon="@drawable/ic_if_check_book_309019"
+                android:title="@string/blance_user_manger" />
+        </menu>
+    </item>
+    <item
+        android:id="@+id/ic_facebook"
+        android:icon="@drawable/ic_facebook"
+        android:title="@string/facebook" />
+
+    <item  android:id="@+id/social" android:title="@string/communicate">
+        <menu>
+
+        <item
+            android:id="@+id/ic_instgram"
+            android:icon="@drawable/ic_instgram"
+            android:title="@string/instgrame" />
+        <item
+            android:id="@+id/ic_wordpress"
+            android:icon="@drawable/ic_wordpress"
+            android:title="@string/wordpress" />
+        <item
+            android:id="@+id/ic_gmail"
+            android:icon="@drawable/ic_email"
+            android:title="@string/gmail" />
+        </menu>
+    </item>
+
+    <item android:id="@+id/support_dev" android:title="@string/support_us_">
+        <menu>
+            <item
+                android:id="@+id/nav_share"
+                android:icon="@drawable/ic_menu_share"
+                android:title="@string/share" />
+        </menu>
+    </item>
+    <item
+        android:id="@+id/ic_about"
+        android:icon="@drawable/ic_about_us"
+        android:title="@string/about_us" />
+</menu>

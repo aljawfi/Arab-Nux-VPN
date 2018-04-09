@@ -1,0 +1,10 @@
+<resources>
+	<dimen name="edit_text_padding">15dp</dimen>
+	<dimen name="edit_text_size">18sp</dimen>
+	<dimen name="margin_top_bottom_edit_text">4dp</dimen>
+	<dimen name="margin_right_checkbox">15dp</dimen>
+	<dimen name="about_up">15dp</dimen>
+	<dimen name="width_image_about_us">120dp</dimen>
+	<dimen name="height_image_about_us">90dp</dimen>
+	<dimen name="text_size_about_us">18sp</dimen>
+</resources>
